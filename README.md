@@ -3,7 +3,7 @@
 > *"Made by **lol123love** for educational purposes — and because love loves LTK, RuneForge, and their big FLOP!"*
 
 ---
-
+## COMPILE AS /MT!!!!
 ## ⚠️ Educational Disclaimer
 
 This project (`LeagueToolFlop` / `LTKBridge`) was created **strictly for educational, interoperability, and reverse-engineering research purposes**. It serves as a technical case study demonstrating:
