@@ -26,7 +26,7 @@
 
 namespace fs = std::filesystem;
 
-static const char* kCredit = "made by lol123love for educational purposes and bcz love loves celestial";
+static const char* kCredit = "made by lol123love for educational purposes and bcz love loves LTK :p BIG FLOP!";
 
 static const char* kHookLog = "C:\\Users\\Public\\ltk_bridge.log";
 static const char* kApiLog = "C:\\Users\\Public\\ltk_api.log";
